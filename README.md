@@ -1,7 +1,7 @@
 #  DEPOT TEST1-GR1250-A13
 Ce depot est un test dans le cadre du cours A13
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8StYgPIRh8qjfoIJ-HWaTbAdNLaUvXuReC8CKGLAuCAtz4csukgvlfRjZ84AtmWYNTn4&usqp=CAU" alt="logo de l'institution" width="100px">
+<img src="images.png" alt="logo de l'institution" width="100px">
 
 ## GitHub
 1. initialiser un depot
