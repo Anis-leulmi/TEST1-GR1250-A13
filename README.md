@@ -29,4 +29,5 @@ Ce depot est un test dans le cadre du cours A13
 9. fermer un issue apres un merge de la branche.
 
 ## Publier le readme.md
-1. 
+1. activer le serveur web
+2. integrer du html dans notre readme.md
